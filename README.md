@@ -1,59 +1,54 @@
-## courses
-Welcome to the **courses** project – a responsive educational landing page for a platform offering online creative courses.
+## 📁 **Repository:** 
+```https://github.com/Yevhenii199/courses```
 
-## 🌐 Demo
+## 📄 Overview
 
-A homepage that showcases various courses (design, animation, programming, etc.), teacher info, and a lead generation form.
+Adaptive multi-page landing page for an online course platform. Designed with a focus on clean semantic layout, high performance, and mobile-friendliness.
+
+## 🛠️ Tech Stack
+
+- **HTML5** — Semantic structure
+- **CSS3 (Flexbox, Media Queries)** — Adaptive and responsive layout
+- **Inter** — Font via Google Fonts
+- **Pixel-perfect** — Maximum compliance with the design
+- **BEM notation** — For readability of classes
+
+## 📱 Adaptability
+
+Fully adapted to resolutions:
+
+- ✅ 1440px (desktop)
+- ✅ 768px (tablets)
+- ✅ 320px (mobile devices)
+
+## 🔧 How to Run Locally
+
+
+1.Clone the repository:
+
+```bash
+git clone https://github.com/Yevhenii199/courses 
+```
+
+2.Navigate to the project directory:
+
+```bash
+cd courses
+```
+
+3.Open the **index.html** file in your browser
+
+
 
 ## 📁 Folder Structure
+
 ```
-project/
-│
-├── index.html # Main HTML file
-├── style/
-│ └── all.css # Combined CSS styles
-├── img/ # Images (logo, cards, icons)
-└── README.md # This file
+courses/
+├── img/                  # Images (logo, cards, icons)
+├── style/                # Combined CSS styles
+│   └── all.css           # Combined CSS styles
+├── index.html            #  Main HTML file
+└── README.md             # This file
 ```
-
-## 🚀 Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
-   git clone https://github.com/Yevhenii199/courses
-Open index.html directly in your browser.
-
-No build tools or frameworks are required for this version — it's built with plain HTML and CSS.
-
-📦 Features
-Fully responsive layout
-
-Animated and interactive course categories
-
-Form for lead capture
-
-Semantic and accessible HTML (WCAG-friendly)
-
-📌 Accessibility
-Headings structured with semantic hierarchy
-
-All interactive elements (inputs, links, buttons) follow accessibility best practices
-
-Images include alt attributes
-
-⚠️ Known Issues
-Form is static; submit button doesn't yet process data
-
-Some links and buttons are placeholders (#)
-
-🛠 Technologies Used
-HTML5
-
-CSS3
-
-Google Fonts (Inter)
-
-No JavaScript in this version
 
 📧 Contact For questions or suggestions, reach out at gshijanov5@gmail.com
